@@ -7,9 +7,9 @@
 <!-- - 💬 Ask me about -->
 - 📫 How to reach me: cansinlale01@gmail.com
 
-My technologies: 
-- HTML
-- CSS
-    - SCSS
-- Javascript
-- React
+### 👾 My technologies: 
+- 🌵 HTML
+- 🌿 CSS
+    - 🍁 SCSS
+- 🪷 Javascript
+- 🌸 React
