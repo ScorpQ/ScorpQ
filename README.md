@@ -1,4 +1,4 @@
-### 👋 i'm Cansın
+### 👋 I'm Cansın
 
 <!-- - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning ***React*** and ***Javascript***
