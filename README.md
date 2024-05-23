@@ -13,3 +13,6 @@
     - 🍁 SCSS
 - 🪷 Javascript
 - 🌸 React
+- 👾 NextJS
+- 👾 ExpressJs
+- 👾 NestJS
