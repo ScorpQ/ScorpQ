@@ -1,7 +1,7 @@
 ### 👋 I'm Cansın FOREVER A JUNIOR
 
 <!-- - 🔭 I’m currently working on -->
-- 🌱 I’m currently learning ***Java*** and ***Spring Boot***
+- 🌱 I’m currently learning ***Java*** and ***Spring Boot*** and ***Kafka***
 <!-- - 💬 Ask me about -->
 - 📫 How to reach me: cansinlale01@gmail.com
 
