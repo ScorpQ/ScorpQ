@@ -14,3 +14,4 @@
 - 👾 NextJS
 - 👾 ExpressJs
 - 👾 NestJS
+- 👾 Working with MCP
