@@ -1,4 +1,4 @@
-### 👋 I'm Cansın FOREVER A JUNIOR
+### 👋 I'm Cansın
 
 <!-- - 🔭 I’m currently stuyding on -->
 - 🌱 I’m currently learning ***Java*** and ***Spring Boot*** and ***Kafka***
